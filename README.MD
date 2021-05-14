@@ -6,4 +6,4 @@
 
 --- 
 
-This repository contains the written materials from Platzi's course [Curso de Deep Learning con Pytorch](https://platzi.com/cursos/deep-learning/)
+This repository contains the written materials from Platzi's course [Curso de Deep Learning con Pytorch](https://platzi.com/cursos/deep-learning/) 
